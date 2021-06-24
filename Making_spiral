@@ -1,3 +1,5 @@
+# Enter some number(N), it will create spiral (N * N) with 1 in center  (N % 2 != 0)
+
 
 def full_spiral(n):
     matrix = [[0 for x in range(n)] for y in range(n)]
